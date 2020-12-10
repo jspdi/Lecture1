@@ -1,0 +1,1 @@
+$ cd d:\git_repository    //在git bash 中将工作目录切换到d盘下的git_repository
